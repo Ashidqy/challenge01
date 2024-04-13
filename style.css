@@ -2,3 +2,8 @@ body {
   width: 1440px;
   background-color: hsl(212, 45%, 89%);
 }
+.card {
+  height: 100px;
+  width: 20;
+  background-color: white;
+}
